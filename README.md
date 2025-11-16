@@ -5,7 +5,7 @@ Climate Action Hackathon 2025 Website 🌍
 A landing page for the Climate Action Hackathon 2025: Urban Heat & Flood Resilience, built using HTML and CSS.
 The site highlights event details, speakers, registration info, and resources promoting SDG 13: Climate Action.
 
-🧩 Features
+-Features
 
 Responsive and modern design
 
@@ -17,18 +17,18 @@ Registration form
 
 Sponsor and contact sections
 
-🛠️ Technologies Used
+-Technologies Used
 
 HTML5 – structure and content
 
 CSS3 – styling and layout
 
-📂 Project Structure
+-Project Structure
 ├── index.html      # Main webpage
 ├── style.css       # Stylesheet
 ├── images/         # (Optional) Folder for images like speakers, sponsors, etc.
 
-🚀 How to Run
+-How to Run
 
 Download or clone this repository
 
